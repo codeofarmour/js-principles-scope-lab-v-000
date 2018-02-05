@@ -12,5 +12,5 @@ function overwriteBestCustomer() {
 }
 
 changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer = 'any kardashian';
+  leastFavoriteCustomer = 'deborah gibson';
 }
